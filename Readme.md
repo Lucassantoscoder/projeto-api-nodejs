@@ -32,10 +32,8 @@ nodemon é uma ferramenta que ajuda a desenvolver aplicativos baseados em Node.j
 #### SuperTeste: 
 Supertest é um módulo que forja requisições visando testar webservers em Node. js e verifica o retorno das mesmas para automatizar testes deste tipo de infraestrutura, principalmente web APIs.
 
-Tags: as tags são utilizadas para separar os funcionalidades, quando colocada na funcionalidade, será aplicada para todos os cenários existentes naquela feature. Como por exemplo o @smoke que eu coloquei ou o @regressivo para usar em um cenário de login que precisa ser testado mais vezes, quando for subir para produçao novas versões do sistema.
-
-----------------------------------------------------------------------------------
-### JEST DOCS:       https://jestjs.io/pt-BR/docs/getting-started
-### SUPERTESTE DOCS: https://www.npmjs.com/package/supertest
-### EXPRESS DOCS:    https://expressjs.com/pt-br/
-### NODEMON DOCS:    https://www.npmjs.com/package/nodemon"# projeto-api-nodejs"  
+#### POSTMAN DOCS:    https://learning.postman.com/docs/developer/intro-api/
+#### JEST DOCS:       https://jestjs.io/pt-BR/docs/getting-started
+#### SUPERTESTE DOCS: https://www.npmjs.com/package/supertest
+#### EXPRESS DOCS:    https://expressjs.com/pt-br/
+#### NODEMON DOCS:    https://www.npmjs.com/package/nodemon
