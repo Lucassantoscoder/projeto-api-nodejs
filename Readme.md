@@ -1,7 +1,7 @@
 <h1 align="Center"> Criando testes de API com NodeJs Jest e Express </h1>
 
 
-Nesse projeto foi feito uma simulação de testes de API que faz: criar enpoints Seleciona, Insere, e verifica usuarios no Postman,após criado os enpoints e o database para utilizar nos testes de API, foi criado scripts de testes com as funções da ferramenta Jest.
+Nesse projeto foi feito uma simulação de testes de API que faz: criar enpoints seleciona, insere, e verifica usuarios no postman, após criado os enpoints e o database para utilizar nos testes de API, foi criado scripts de testes com as funções da ferramenta Jest.
 
 ### Linguagem:
 Node.js pode ser definido como um ambiente de execução Javascript server side, ou seja tudo feito no servidor. 
