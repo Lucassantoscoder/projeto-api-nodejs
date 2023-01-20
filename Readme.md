@@ -5,7 +5,7 @@ Nesse projeto foi feito uma simulação de testes de API que faz: criar enpoints
 
 ### Linguagem:
 Node.js pode ser definido como um ambiente de execução Javascript server side, ou seja tudo feito no servidor. 
-Com o Node.js é possível criar aplicações Javascript para rodar como uma aplicação sozinha em uma máquina.
+Com o Node.js é possível criar aplicações Javascript para rodar como uma aplicação sozinha em uma máquina, deixei link abaixo explicando melhor sobre server side.
 
 <img src='https://user-images.githubusercontent.com/68041354/209408080-f6b2be5e-6e85-453f-8120-6471df4619ec.svg' width='42'>  <img src='https://user-images.githubusercontent.com/68041354/209408567-f1728479-0f2b-423b-9550-771b96a33373.png' width='40'>
 
@@ -37,3 +37,4 @@ Supertest é um módulo que forja requisições visando testar webservers em Nod
 #### SUPERTESTE DOCS: https://www.npmjs.com/package/supertest
 #### EXPRESS DOCS:    https://expressjs.com/pt-br/
 #### NODEMON DOCS:    https://www.npmjs.com/package/nodemon
+#### SERVER SIDE:     https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/First_steps/Introduction
